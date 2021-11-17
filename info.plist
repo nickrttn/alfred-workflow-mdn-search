@@ -102,7 +102,9 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Search in MDN documentation easily with this workflow.
+
+This workflow supports macOS Monterey out of the box, no additional installations needed.</string>
 	<key>uidata</key>
 	<dict>
 		<key>7DD3BDE5-A157-42E5-9376-F681FB50A4EE</key>
@@ -120,7 +122,11 @@
 			<integer>50</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/nickrttn/alfred-workflow-mdn-search</string>
 </dict>
 </plist>
